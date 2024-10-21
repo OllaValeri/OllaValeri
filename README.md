@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OllaValeri(you can call me Olla)
+- 👀 I’m interested in computer science and music; I enjoy playing the piano
+- 🌱 I’m currently learning how to develop an IOS app 
+- 📫 How to reach me: via mail at eleonora.valeri02@gmail.com
+- ⚡ Fun fact: i have ADHD so you’ll never be bored with me :)
+- 🖥️ I'm a Computer Science student at UniTO (Turin, Italy)
